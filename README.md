@@ -1,13 +1,13 @@
 # Polling-System-Api
 This is a backend api for creating questions and adding options to a specific question. Options can be voted. Questions, options can be deleted and questions can be viewed with all of their options.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Polling system Features
-1.Create questions
-2.Add options to question
-3.Delete a question
-4.Delete an option
-5.Add vote to an option
-6.View a question with all of its options
+Polling system Features <br>
+1.Create questions <br>
+2.Add options to question <br>
+3.Delete a question <br>
+4.Delete an option <br>
+5.Add vote to an option <br>
+6.View a question with all of its options <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | HTTP Verbs | Endpoints |  Action|
 | ------------- | ------------- | ------------- |
