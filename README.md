@@ -10,7 +10,7 @@ Polling system Features
 6.View a question with all of its options
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | HTTP Verbs | Endpoints |  Action|
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | GET  | /  | HOME PAGE | 
 | POST  | /question/create-question  | TO CREATE A QUESTION IN API |
 | DELETE  | /question/delete-question/:id  | TO DELETE A A QUESTION FROM API |
